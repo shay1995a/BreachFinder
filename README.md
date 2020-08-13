@@ -8,3 +8,7 @@ pip3 install -r requirements.txt
 install npm : https://nodejs.org/en/download/ 
 
 install pwned : restart your cmd and run : npm install pwned -g
+
+usage:
+
+py .\breachFinder.py -h
