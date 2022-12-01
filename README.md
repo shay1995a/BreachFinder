@@ -3,7 +3,7 @@ A neat tool integrated with hunter.io and haveibeenpwned to find breaches in an 
 
 was tested on windows should work on linux as well
 
-In order to make it work please do the following after coloning:
+In order to make it work please do the following after cloning:
 
 pip3 install -r requirements.txt
 
